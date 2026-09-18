@@ -83,10 +83,7 @@ pyredis/
     └── benchmark.py
 ```
 
-```bash
-git clone https://github.com/narendra-sagar-velpula/pyredis.git
-cd pyredis
-```
+
 
 ## Running it
 
