@@ -1,0 +1,17 @@
+# AOF data files -- these are runtime state, not source code
+*.aof
+*.aof.rewrite.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Logs from manual testing
+*.log
+
+# OS cruft
+.DS_Store
+Thumbs.db
